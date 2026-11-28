@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: vote-PROD
+  name: vote-prod
   namespace: argocd
 spec:
   destination:
